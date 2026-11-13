@@ -1,4 +1,3 @@
-```bash
 #!/usr/bin/env bash
 set -Eeuo pipefail
 
@@ -32,4 +31,4 @@ fi
 
 echo "[INFO] Starting ServiceMaker..."
 sudo bash "$TARGET" </dev/tty
-```
+
